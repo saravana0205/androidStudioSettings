@@ -8,10 +8,22 @@
             <value value="192.168.1.81:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-25T11:38:06.604746400Z" />
+        <lastOnlineTime value="2022-02-25T12:16:47.732343200Z" />
         <name value="realme RMX2002" />
         <target value="Android 11.0" />
         <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="07327d907d29" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-25T12:18:28.584847300Z" />
+        <name value="Xiaomi Redmi 6" />
+        <target value="Android 9.0" />
+        <api value="28" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
