@@ -11,7 +11,8 @@
     <option name="isCompactTables" value="true" />
     <option name="indicatorStyle" value="None" />
     <option name="tabsHeight" value="42" />
-    <option name="accentColor" value="009688" />
+    <option name="accentColor" value="ff9800" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="57e16daa:17f443d1cde:-8000" />
     <option name="version" value="6.7.2" />
   </component>
