@@ -5,10 +5,9 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.1.81:5555" />
+            <value value="192.168.0.243:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-25T12:32:44.976878300Z" />
         <name value="realme RMX2002" />
         <target value="Android 11.0" />
         <api value="30" />
@@ -28,21 +27,9 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="58cde1c" />
-          </Key>
-        </key>
-        <name value="SONY G2299" />
-        <target value="Android 8.0" />
-        <api value="26" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="192.168.1.9:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-02-25T12:41:02.206143Z" />
         <name value="SONY G2299" />
         <target value="Android 8.0" />
         <api value="26" />
