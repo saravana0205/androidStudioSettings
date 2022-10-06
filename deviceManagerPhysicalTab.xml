@@ -10,7 +10,7 @@
         </key>
         <name value="realme RMX2002" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -21,7 +21,7 @@
         </key>
         <name value="Xiaomi Redmi 6" />
         <target value="Android 9.0" />
-        <api value="28" />
+        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -32,7 +32,18 @@
         </key>
         <name value="SONY G2299" />
         <target value="Android 8.0" />
-        <api value="26" />
+        <api value="androidversion:26:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="CUQCCIFM8PRSWKAY" />
+          </Key>
+        </key>
+        <name value="realme RMX2002" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
