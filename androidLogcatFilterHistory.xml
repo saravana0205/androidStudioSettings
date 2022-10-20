@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="okhttp.OkHttpClient" />
     <option name="nonFavorites">
       <list>
+        <option value="okhttp.OkHttpClient" />
         <option value="package:mine" />
         <option value="cpsCamera" />
       </list>
