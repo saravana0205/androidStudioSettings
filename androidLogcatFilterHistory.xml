@@ -6,12 +6,12 @@
         <option value="level:ERROR" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="okhttp.OkHttpClient" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="level:" />
         <option value="E:" />
-        <option value="package:mine" />
         <option value="D: " />
         <option value="cpsCamera" />
       </list>
