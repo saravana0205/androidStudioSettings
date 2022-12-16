@@ -1,10 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="favorites">
+      <list>
+        <option value="okhttp.OkHttpClient" />
+        <option value="level:ERROR" />
+      </list>
+    </option>
     <option name="mostRecentlyUsed" value="okhttp.OkHttpClient" />
     <option name="nonFavorites">
       <list>
-        <option value="okhttp.OkHttpClient" />
+        <option value="level:" />
+        <option value="E:" />
         <option value="package:mine" />
+        <option value="D: " />
         <option value="cpsCamera" />
       </list>
     </option>
