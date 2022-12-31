@@ -2,8 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="okhttp.OkHttpClient" />
         <option value="level:ERROR" />
+        <option value="okhttp.OkHttpClient" />
       </list>
     </option>
     <option name="mostRecentlyUsed" value="s2s" />
