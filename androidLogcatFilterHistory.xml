@@ -6,7 +6,7 @@
         <option value="level:ERROR" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="level:ERROR" />
     <option name="nonFavorites">
       <list>
         <option value="s2s" />
