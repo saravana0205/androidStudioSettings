@@ -6,12 +6,12 @@
         <option value="okhttp.OkHttpClient" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="ABsolute Url of" />
+    <option name="mostRecentlyUsed" value="level:ERROR" />
     <option name="nonFavorites">
       <list>
+        <option value="s2s" />
         <option value="ABsolute Url of" />
         <option value="tag" />
-        <option value="s2s" />
         <option value="package:mine" />
         <option value="package:mine " />
         <option value="updateLogApi" />
