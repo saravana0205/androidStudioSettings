@@ -10,6 +10,7 @@
     <option name="nonFavorites">
       <list>
         <option value="s2s" />
+        <option value="log error msg" />
         <option value="ABsolute Url of" />
         <option value="tag" />
         <option value="package:mine" />
